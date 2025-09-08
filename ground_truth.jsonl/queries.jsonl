@@ -32,7 +32,7 @@
 
 {"_id": "traits-1", "text": "What races can I be in D&D?", "relevant_docs": []}
 {"_id": "traits-2", "text": "What races can I be in D&D?", "relevant_docs": []}
-{"_id": "triats-3", "text": "What races can I be in D&D?", "relevant_docs": []}
+{"_id": "traits-3", "text": "What races can I be in D&D?", "relevant_docs": []}
 
 {"_id": "proficiencies-1", "text": "What races can I be in D&D?", "relevant_docs": []}
 {"_id": "proficiencies-2", "text": "What races can I be in D&D?", "relevant_docs": []}
@@ -65,3 +65,27 @@
 {"_id": "equipmentcategories-1", "text": "What races can I be in D&D?", "relevant_docs": []}
 {"_id": "equipmentcategories-2", "text": "What races can I be in D&D?", "relevant_docs": []}
 {"_id": "equipmentcategories-3", "text": "What races can I be in D&D?", "relevant_docs": []}
+
+{"_id": "ability_scores-1", "text": "What races can I be in D&D?", "relevant_docs": []}
+{"_id": "ability_scores-2", "text": "What races can I be in D&D?", "relevant_docs": []}
+{"_id": "ability_scores-3", "text": "What races can I be in D&D?", "relevant_docs": []}
+
+{"_id": "subclasses-1", "text": "What races can I be in D&D?", "relevant_docs": []}
+{"_id": "subclasses-2", "text": "What races can I be in D&D?", "relevant_docs": []}
+{"_id": "subclasses-3", "text": "What races can I be in D&D?", "relevant_docs": []}
+
+{"_id": "classes-1", "text": "What races can I be in D&D?", "relevant_docs": []}
+{"_id": "classes-2", "text": "What races can I be in D&D?", "relevant_docs": []}
+{"_id": "classes-3", "text": "What races can I be in D&D?", "relevant_docs": []}
+
+{"_id": "feats-1", "text": "What races can I be in D&D?", "relevant_docs": []}
+{"_id": "feats-2", "text": "What races can I be in D&D?", "relevant_docs": []}
+{"_id": "feats-3", "text": "What races can I be in D&D?", "relevant_docs": []}
+
+{"_id": "languages-1", "text": "What races can I be in D&D?", "relevant_docs": []}
+{"_id": "languages-2", "text": "What races can I be in D&D?", "relevant_docs": []}
+{"_id": "languages-3", "text": "What races can I be in D&D?", "relevant_docs": []}
+
+{"_id": "skills-1", "text": "What races can I be in D&D?", "relevant_docs": []}
+{"_id": "skills-2", "text": "What races can I be in D&D?", "relevant_docs": []}
+{"_id": "skills-3", "text": "What races can I be in D&D?", "relevant_docs": []}
