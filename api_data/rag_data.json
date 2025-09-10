@@ -318,7 +318,7 @@
         }
     },
     {
-        "content": "Dragonborn",
+        "content": "Dragonborn. Dragonborn tend to extremes, making a conscious choice for one side or the other in the cosmic war between good and evil. Most dragonborn are good, but those who side with evil can be terrible villains.",
         "meta": {
             "name": "Dragonborn",
             "speed": 30,
@@ -344,7 +344,7 @@
         }
     },
     {
-        "content": "Dwarf",
+        "content": "Dwarf. Most dwarves are lawful, believing firmly in the benefits of a well-ordered society. They tend toward good as well, with a strong sense of fair play and a belief that everyone deserves to share in the benefits of a just order.",
         "meta": {
             "name": "Dwarf",
             "speed": 25,
@@ -380,7 +380,7 @@
         }
     },
     {
-        "content": "Elf",
+        "content": "Elf. Elves love freedom, variety, and self-expression, so they lean strongly toward the gentler aspects of chaos. They value and protect others' freedom as well as their own, and they are more often good than not.",
         "meta": {
             "name": "Elf",
             "speed": 30,
@@ -412,7 +412,7 @@
         }
     },
     {
-        "content": "Gnome",
+        "content": "Gnome. Gnomes are most often good. Those who tend toward law are sages, engineers, researchers, scholars, investigators, or inventors. Those who tend toward chaos are minstrels, tricksters, wanderers, or fanciful jewelers. Gnomes are good-hearted, and even the tricksters among them are more playful than vicious.",
         "meta": {
             "name": "Gnome",
             "speed": 25,
@@ -439,7 +439,7 @@
         }
     },
     {
-        "content": "Half-Elf",
+        "content": "Half-Elf. Half-elves share the chaotic bent of their elven heritage. They value both personal freedom and creative expression, demonstrating neither love of leaders nor desire for followers. They chafe at rules, resent others' demands, and sometimes prove unreliable, or at least unpredictable.",
         "meta": {
             "name": "Half-Elf",
             "speed": 30,
@@ -464,7 +464,7 @@
         }
     },
     {
-        "content": "Half-Orc",
+        "content": "Half-Orc. Half-orcs inherit a tendency toward chaos from their orc parents and are not strongly inclined toward good. Half-orcs raised among orcs and willing to live out their lives among them are usually evil.",
         "meta": {
             "name": "Half-Orc",
             "speed": 30,
@@ -494,7 +494,7 @@
         }
     },
     {
-        "content": "Halfling",
+        "content": "Halfling. Most halflings are lawful good. As a rule, they are good-hearted and kind, hate to see others in pain, and have no tolerance for oppression. They are also very orderly and traditional, leaning heavily on the support of their community and the comfort of their old ways.",
         "meta": {
             "name": "Halfling",
             "speed": 25,
@@ -522,7 +522,7 @@
         }
     },
     {
-        "content": "Human",
+        "content": "Human. Humans tend toward no particular alignment. The best and the worst are found among them.",
         "meta": {
             "name": "Human",
             "speed": 30,
@@ -547,7 +547,7 @@
         }
     },
     {
-        "content": "Tiefling",
+        "content": "Tiefling. Tieflings might not have an innate tendency toward evil, but many of them end up there. Evil or not, an independent nature inclines many tieflings toward a chaotic alignment.",
         "meta": {
             "name": "Tiefling",
             "speed": 30,
