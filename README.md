@@ -2,7 +2,7 @@
 
 ## Description
 
-This project is a Question-Answering (QA) system that allows users to ask questions specifically tailored to Dungeons & Dragons.
+This project is a Question-Answering (QA) system that allows users to ask questions specifically tailored to *Dungeons & Dragons*.
 
 ## GitHub Repository
 
@@ -10,9 +10,10 @@ The code can be accessed via this link: https://github.com/blsUr1/a-retrieval-au
 
 ## Requirements
 
-The QA system has been developed in Visual Studio Code on Windows 11 with Python 3.11 installed.
+The QA system has been developed in *Visual Studio Code* on *Windows 11* with *Python 3.11* installed.
 
 Run this code to install the required Python packages and libraries:
+
 ```python
 %pip install -U datasets huggingface_hub fsspec
 %pip -m spacy download en_core_web_sm
