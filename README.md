@@ -2,11 +2,15 @@
 
 ## Description
 
-This project is a Question-Answering (QA) system that allows users to ask questions specifically tailored to *Dungeons & Dragons*.
+This project is a Question-Answering (QA) system that allows users to ask questions specifically tailored to *Dungeons & Dragons*. 
 
-## GitHub Repository
+## Download
 
-The code can be accessed via this link: https://github.com/blsUr1/a-retrieval-augmented-qa-system-for-dungeons-and-dragons
+The code can be accessed and downloaded via this link: https://github.com/blsUr1/a-retrieval-augmented-qa-system-for-dungeons-and-dragons
+
+## Usage
+
+Examples on how to use the system can be viewed under *2.10 Usage Examples* (without filtering) and *3.3 Usage Examples* (with filtering) in `main.ipynb`.
 
 ## Requirements
 
@@ -28,7 +32,6 @@ Run this code to install the required Python packages and libraries for `main.ip
 %pip install fsspec==2024.6.1
 %pip install s3fs==2024.6.1
 %pip install evaluate
-%pip install spacy
 %pip install haystack-ai
 %pip install google-genai-haystack
 %pip install "sentence-transformers>=4.1.0"
@@ -38,7 +41,6 @@ Run this code to install the required Python packages and libraries for `main.ip
 %pip install "numpy==1.26.4"
 %pip install "h5py==3.10.0"
 %pip install "thinc==8.2.3"
-!python -m spacy download en_core_web_sm
 
 import json
 import os
@@ -65,6 +67,8 @@ import math
 import numpy as np
 from collections import Counter
 import matplotlib.pyplot as plt
+import seaborn as sns
+from collections import defaultdict
 ```
 
 Run this code to install additional Python packages and libraries for `api_to_json.ipynb`:
