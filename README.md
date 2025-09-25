@@ -2,7 +2,7 @@
 
 ## Description
 
-This project is a Question-Answering (QA) system that allows users to ask questions specifically tailored to *Dungeons & Dragons*. 
+This project is a Question-Answering (QA) system that allows users to ask questions specifically tailored to the 5th edition *Dungeons & Dragons*. 
 
 ## Download
 
