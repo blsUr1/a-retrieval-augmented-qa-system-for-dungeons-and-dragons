@@ -3709,7 +3709,7 @@
         },
         "categories": [
             "spells",
-            "conditions",
+            "classes",
             "rule_sections",
             "features"
         ]
@@ -9652,7 +9652,7 @@
         "categories": [
             "equipment",
             "equipment_categories",
-            "features",
+            "magic_items",
             "rule_sections"
         ]
     },

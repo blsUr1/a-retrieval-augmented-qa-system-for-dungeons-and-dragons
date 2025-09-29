@@ -1,0 +1,212 @@
+{
+    "id01": {
+        "question": "Can i further my range of the teleportation spell with familiar or clairvoyance?",
+        "ground_truth_answer": "It is \"a known place\", not \"a place within view\". Teleportation spell can teleport up to eight people within range. If you can see that place from your familiar's eye or with help of any divination, it works fine.",
+        "llm_answer": "Clairvoyance and Find Familiar could be used to scout a location, making it \"seen\" or \"viewed once\", which improves your familiarity for Teleport. However, neither spell directly increases the range of the Teleport spell itself, which remains 10 feet.\n",
+        "similarity_score": 0.7398709058761597,
+        "factual_correctness": 2
+    },
+    "id02": {
+        "question": "Assuming all spell slots are used, how many zombies or skeletons could a necromancer raise with the spell Animate Dead?",
+        "ground_truth_answer": "The create undead spell allows for up to 3 Ghouls, which are CR1 monsters. It isn't much of a leap to think that a necromancer could create 4 zombies (1/4 CR) in place of every ghoul. So with some simple math a create undead spell could create up to 12 zombies.",
+        "llm_answer": "This depends on the level of the spell slots the necromancer has available and how many slots they are willing to use for Animate Dead.\n\n*   **3rd Level Spell Slot:** With a single 3rd level spell slot, the necromancer can animate up to four undead creatures (zombies or skeletons).\n\n*   **Higher Level Spell Slots:** For each spell slot level above 3rd, the necromancer can animate or reassert control over two additional undead creatures.\n\nFor example:\n\n*   4th level: 4 + 2 = 6 undead\n*   5th level: 4 + (2 * 2) = 8 undead\n*   6th level: 4 + (3 * 2) = 10 undead\n*   7th level: 4 + (4 * 2) = 12 undead\n*   8th level: 4 + (5 * 2) = 14 undead\n*   9th level: 4 + (6 * 2) = 16 undead\n\nTo determine the maximum number, you would need to know how many spell slots of each level the necromancer has and how many they are willing to expend on Animate Dead.\n\n",
+        "similarity_score": 0.6687526702880859,
+        "factual_correctness": 2
+    },
+    "id03": {
+        "question": "Does the character with the highest Initiative go first?",
+        "ground_truth_answer": "The highest go first and so on.",
+        "llm_answer": "This question cannot be answered from the given source.\n",
+        "similarity_score": 0.200460746884346,
+        "factual_correctness": -1
+    },
+    "id04": {
+        "question": "I have a doubt with the loading property, can I use 2 attacks in a round if I have 3 actions?",
+        "ground_truth_answer": "if you are talking about extra-attack then no. extra-attack require one action, so you can fire only once. with action surge you can fire twice because you take 2 actions.",
+        "llm_answer": "No, the loading property restricts you to firing only one piece of ammunition from a weapon with that property regardless of the number of actions you have.\n",
+        "similarity_score": 0.4596189260482788,
+        "factual_correctness": 2
+    },
+    "id05": {
+        "question": "Is it possible to twin a spell (like invisibility) from the ring of storing?",
+        "ground_truth_answer": "But for the way I see sorcerer, I'd say no. They are able to do metamagic because their spells are kind of an inner ability. A spell from another source, like the ring of storing, does not come from the inner power of the sorcerer.",
+        "llm_answer": "The Ring of Spell Storing lets you cast a spell stored within it, using the original caster's spell save DC, spell attack bonus, and spellcasting ability. However, it is \"otherwise treated as if you cast the spell.\" Therefore, if you have the ability to twin a spell and the spell meets the requirements for twinning (e.g., it targets only one creature), you should be able to twin it when cast from the ring, using your own resources for the twinning (e.g., sorcery points).\n",
+        "similarity_score": 0.3887002170085907,
+        "factual_correctness": 2
+    },
+    "id06": {
+        "question": "When I use Divine Smite as a Paladin I expend spell slots, so is Divine Smite then considered a spell?",
+        "ground_truth_answer": "I am quite confident that Paladin's Divine Smite is not a spell, whether \"as written\" or \"as intended\". It doesn't reference a spell, nor does it use language such as \"cast\" or \"spell\".",
+        "llm_answer": "Divine Smite is not a spell. Although it uses spell slots as a resource, it is a Paladin class feature, not a spell.\n",
+        "similarity_score": 0.8366193771362305,
+        "factual_correctness": 2
+    },
+    "id07": {
+        "question": "When a character has regenerate and his health drops to 0, does the generation stop?",
+        "ground_truth_answer": "Generally no, but depends upon the situation. If you are talking about the spell \"Regenerate\", no it doesn't stop. It is like a continuos healing. At 0 hp you are unconscuos regardless. For the creature, for exmaple the Troll, it regenerates only non-fire and non-acid damage.",
+        "llm_answer": "This question cannot be answered from the given source.\n",
+        "similarity_score": -0.0004499307833611965,
+        "factual_correctness": -1
+    },
+    "id08": {
+        "question": "How do you handle darkness in melee combat?",
+        "ground_truth_answer": "If the combatant are fighting into darkness (and none of them has senses like Darkvision), they both have advantage and disadvantage on the attack rolls (see Blinded), so both roll one d20. The rules also say that sight isn't the only factor to know the position of the you combatant. Unless one of them tries to hide, one knows the position of the other.",
+        "llm_answer": "The provided text snippets don't directly address how to handle darkness in melee combat. However, they do provide information on related conditions and skills that would be relevant:\n\n*   **Stealth:** Creatures might use Stealth to hide in darkness.\n*   **Perception:** Creatures use Perception to detect hidden enemies.\n*   **Invisible:** Being invisible makes you heavily obscured for the purpose of hiding.\n*   **Blinded:** A blinded creature can't see and has disadvantage on attack rolls, and attacks against them have advantage.\n*   **Prone:** Being prone gives disadvantage on attack rolls, and attacks against them have advantage if the attacker is within 5 feet.\n*   **Unconscious, Stunned, Paralyzed:** These conditions all give advantage to attack rolls against the creature.\n\nWithout specific rules on darkness, I can't give a definitive answer on how to handle it in melee combat. I would need more information from the core rulebooks to provide a complete and accurate response.\n",
+        "similarity_score": 0.5326611995697021,
+        "factual_correctness": -1
+    },
+    "id09": {
+        "question": "Can i, as the DM, use its Petrifying Gaze and Bite every turn?",
+        "ground_truth_answer": "Petrifying Gaze is a conditional ability and only works at the beginning of another creature's turn, as stated in the book.  If the condition is met (the creature and the basilisk can see each other and are within 30 feet) then the ability may be used.",
+        "llm_answer": "This question cannot be answered from the given information.\n",
+        "similarity_score": 0.07869654893875122,
+        "factual_correctness": -1
+    },
+    "id10": {
+        "question": "Can Sight Rot disease be cured with Lesser Restoration?",
+        "ground_truth_answer": "Yes, lesser restoration cures the disease altogether.",
+        "llm_answer": "This question cannot be answered from the given information.\n",
+        "similarity_score": 0.02834530547261238,
+        "factual_correctness": -1
+    },
+    "id11": {
+        "question": "Does proficiency matter when choosing weapons for two weapon fighting?",
+        "ground_truth_answer": "You better have the proficiency, for higher attack rolls, but technically the proficiency is not mandatory.",
+        "llm_answer": "The provided text doesn't directly address whether proficiency matters for two-weapon fighting. However, it does state that certain classes are proficient with Simple Weapons, and others with Martial Weapons. If a character attempts to use a weapon with which they are not proficient, they will not be able to add their proficiency bonus to their attack rolls, making them less effective in combat.\n",
+        "similarity_score": 0.541490375995636,
+        "factual_correctness": 2
+    },
+    "id12": {
+        "question": "Do the weapons chosen for two weapon fighting have to be one-handed?",
+        "ground_truth_answer": "Both weapons have to be one-handed weapons.",
+        "llm_answer": "While the provided data does not contain the explicit rules for two-weapon fighting, the \"Light\" property on weapons such as the Handaxe and Light Hammer is strongly indicative that the weapons must be one-handed and light to be used for two-weapon fighting.\n",
+        "similarity_score": 0.6360411643981934,
+        "factual_correctness": 1
+    },
+    "id13": {
+        "question": "What races can be played in the game?",
+        "ground_truth_answer": "The SRD has support for the following races and subraces: Dwarves, Hill Dwarves, Elves, High Elves, Humans, Halflings, Lightfoot Halflings, Gnomes, Rock Gnomes, Dragonborn, Tieflings, Half-Elves, Half-Orcs",
+        "llm_answer": "This information does not contain a list of playable races. It only provides information on class features, rules, and combat.\n",
+        "similarity_score": 0.4729638695716858,
+        "factual_correctness": -1
+    },
+    "id14": {
+        "question": "Does Contagion apply to undead monsters?",
+        "ground_truth_answer": "Yes it does work on almost all undead - even mummies and liches don't have immunity to disease.",
+        "llm_answer": "Based on the provided data, here's an analysis of whether the *Contagion* spell would be effective against these undead monsters:\n\n*   ***Contagion* Spell:** The *Contagion* spell typically requires a creature to make Constitution saving throws to avoid being infected with a disease. The spell has varying effects depending on the disease chosen, but many of these effects involve conditions like being poisoned, paralyzed, or incapacitated.\n\n*   **Undead Immunities:** Many undead creatures have specific immunities that would make *Contagion* ineffective. The most common and relevant of these are:\n\n    *   **Poisoned Condition:** Many undead are immune to the *Poisoned* condition. Since some of the effects of *Contagion* rely on imposing the *Poisoned* condition, this immunity would negate those effects.\n\n    *   **Poison Damage:** Many are immune to poison damage.\n\n    *   **Other Conditions:** Some undead are immune to conditions like *Paralyzed*, *Charmed*, or *Exhaustion*, which might be inflicted by certain *Contagion* diseases.\n\n*   **Specific Undead Analysis:** Looking at the undead in the data:\n\n    *   **Zombie and Ogre Zombie:** Both are immune to *Poison* damage and the *Poisoned* condition. This makes *Contagion* largely ineffective against them.\n\n    *   **Vampire Spawn:** No specific immunity to any condition that would protect them from Contagion.\n\n    *   **Wraith:** Immune to the *Poisoned* condition.\n\n    *   **Shadow:** Immune to the *Poisoned* condition, *Exhaustion*, *Frightened*, *Grappled*, *Paralyzed*, *Petrified*, *Prone*, and *Restrained*. This makes *Contagion* ineffective against them.\n\n    *   **Ghast:** Immune to the *Poisoned* condition, *Charmed*, and *Exhaustion*.\n\n    *   **Wight:** Immune to the *Poisoned* condition, and *Exhaustion*.\n\n    *   **Ghost:** Immune to the *Poisoned* condition, *Charmed*, *Exhaustion*, *Frightened*, *Grappled*, *Paralyzed*, *Petrified*, *Prone*, and *Restrained*. This makes *Contagion* ineffective against them.\n\n    *   **Lich:** Immune to the *Poisoned* condition, *Charmed*, *Exhaustion*, *Frightened*, and *Paralyzed*. This makes *Contagion* ineffective against them.\n\n    *   **Skeleton:** Immune to the *Poisoned* condition and *Exhaustion*. This makes *Contagion* largely ineffective against them.\n\n**Conclusion:** *Contagion*'s effectiveness against undead is highly variable and depends on the specific undead creature and the chosen disease effect. Most undead have immunities (especially to the *Poisoned* condition) that significantly reduce or negate the spell's impact.\n\n",
+        "similarity_score": 0.5169073343276978,
+        "factual_correctness": 1
+    },
+    "id15": {
+        "question": "If a vampire is reduced to 0 health in Moonbeam, does it die?",
+        "ground_truth_answer": "The Moonbeam hits the Vampire. If the vampire fails the save (with disadvantage, because his type includes \"shapechanger\"), \"can’t assume a different form until it leaves the spell’s light\". If the damage reduces it to 0 hp, its Misty Escape attempts to trigger, but it cannot transform, so \"If it can't transform, it is destroyed.",
+        "llm_answer": "This question cannot be answered from the given source. Moonbeam is not mentioned in the provided text.\n",
+        "similarity_score": 0.556328296661377,
+        "factual_correctness": -1
+    },
+    "id16": {
+        "question": "Does an illusion block light or reflect light?",
+        "ground_truth_answer": "It is only an illusion, it can't actually do anything as it isn't a physical thing. The important part of the spell is. The image can't create sound, light, smell, or any other sensory effect. Physical interaction with the image reveals it to be an illusion, because things can pass through it. So it wouldn't block light, or reflect it.",
+        "llm_answer": "This information does not contain the answer to the question.\n",
+        "similarity_score": 0.09245526790618896,
+        "factual_correctness": -1
+    },
+    "id17": {
+        "question": "Is there a way to identify a spell as it's being cast, like spellcraft used to do?",
+        "ground_truth_answer": "The Counterspell just allows you to counter without knowing the spells level (unless of course you want to cast at a higher level).",
+        "llm_answer": "While there isn't a direct \"spellcraft\" skill or spell to identify a spell as it's being cast in the provided texts, the *Identify* spell could potentially reveal information about a spell affecting a creature if cast while the spell is being cast. Additionally, the *Arcanist's Magic Aura* spell could mask a spell being cast, making it harder to identify through magical means. However, there's no guarantee of identifying a spell as it's being cast with the given information.\n",
+        "similarity_score": 0.18963505327701569,
+        "factual_correctness": 1
+    },
+    "id18": {
+        "question": "What are the rules for a players jumping height?",
+        "ground_truth_answer": "When you make a high jump, you leap into the air a number of feet equal to 3 + your Strength modifier if you move at least 10 feet on foot immediately before the jump.",
+        "llm_answer": "The provided text includes several features that modify jumping distance, but not jumping height. Here's a summary of those features and how they affect jumping:\n\n*   **Second-Story Work (Rogue):** Increases running jump distance by your Dexterity modifier. Climbing no longer costs extra movement.\n\n*   **Step of the Wind (Monk):** Doubles your jump distance for the turn when used.\n\n*   **Remarkable Athlete (Fighter):** Increases running long jump distance by your Strength modifier.\n\n*   **Eldritch Invocation: Otherworldly Leap (Warlock):** Allows you to cast the *jump* spell on yourself at will. The *jump* spell triples your jump distance.\n\nThe base rules for jumping (PHB) state the following regarding jumping height:\n\n*   **High Jump.** You leap into the air a number of feet equal to 3 + your Strength modifier if you move at least 10 feet on foot immediately before the jump. When you make a standing high jump, you can jump only half that distance. You can extend your arms half your height above you during the jump. Thus, you can reach above you a distance equal to the height of the jump plus half your height.\n\n",
+        "similarity_score": 0.7698928117752075,
+        "factual_correctness": 2
+    },
+    "id19": {
+        "question": "How does wearing an Adamantine Mail shirt affect my character?",
+        "ground_truth_answer": "Wearing a specific type of armour changes your armour calculation. Wearing an Chain Shirt means your armour class calculates as 13 + dex modifier (max 2). You can't combine this with other armour.",
+        "llm_answer": "This question cannot be answered from the given information.\n",
+        "similarity_score": 0.03546224161982536,
+        "factual_correctness": -1
+    },
+    "id20": {
+        "question": "Is it possible counter a counter?",
+        "ground_truth_answer": "Sure you can.",
+        "llm_answer": "This question is too vague to answer definitively within the provided context. \"Counter\" can mean many things in D&D. To give a useful answer, I need more information about what kind of counter you're referring to.\n\nFor example:\n\n*   **Counterspell:** Is it possible to counter a *Counterspell* spell? Yes, another character could use *Counterspell* to counter the first *Counterspell*.\n\n*   **Condition Removal:** Is it possible to counter an attempt to remove a condition? This depends on the method being used to remove the condition and what means are available to prevent it. For example, a spell like *Dispel Magic* could be countered with *Counterspell*.\n\n*   **General Opposition:** Are you asking if it's possible to oppose an action that is itself intended to thwart another action? Again, this depends heavily on the specific actions involved.\n\nPlease provide more specifics.\n",
+        "similarity_score": 0.09662632644176483,
+        "factual_correctness": 2
+    },
+    "id21": {
+        "question": "If I ready a spell for example magic missile, but the trigger happens at round 3 and at round 2 and 3, can I cast spells with my action as normal (considering the rule about concentration)?",
+        "ground_truth_answer": "If you ready a spell and don't cast it (using your reaction) before the start of your next turn, you lose the spell slot. If you don't cast the readied magic missile before the start of your turn on round 2, then your spell slot would be wasted.",
+        "llm_answer": "No, you cannot cast spells with your action as normal on rounds 2 and 3. Here's why:\n\n1.  **Readying a Spell:** When you ready a spell, you are holding the spell's energy, waiting for a specific trigger. You've already begun the casting process, but you're delaying the release of the magic until the trigger occurs.\n\n2.  **Action Economy:** Readying a spell uses your action on the turn you ready it. Since you've spent your action readying, you can't also use your action to cast another spell.\n\n3.  **Concentration (Potential Issue):** If the spell you are readying requires concentration, you cannot cast another concentration spell.\n\nTherefore, on rounds 2 and 3, you wouldn't be able to cast additional spells using your action because you've already committed to readying the *magic missile* spell. You can, however, move, use a bonus action (if available and applicable), and take reactions as normal.\n",
+        "similarity_score": 0.5944731831550598,
+        "factual_correctness": 2
+    },
+    "id22": {
+        "question": "If the target of the spell shocking grasp were wearing full chain or full plate armor, would they be protected by a Faraday's cage?",
+        "ground_truth_answer": "Metal conducts electricity, thus the spellcaster having advantage.",
+        "llm_answer": "This question is based on real-world physics, not D&D rules. The D&D rules do not account for a \"Faraday cage\" effect. The armor worn by a target in D&D does not grant immunity to electrical damage.\n",
+        "similarity_score": 0.27166423201560974,
+        "factual_correctness": 2
+    },
+    "id23": {
+        "question": "Does Bless stay active on polymorphed character?",
+        "ground_truth_answer": "If Bless and Polymorph come from different spellcasters and both maintain concentration, the target is affected by both spells. Even polymorphed, the target is still the same entity.",
+        "llm_answer": "The Wild Shape feature states: \"Transforming doesn't break your concentration on a spell you've already cast\". Therefore, Bless would remain active on a Druid who uses Wild Shape. The Eldritch Invocation: Sculptor of Flesh allows a Warlock to cast Polymorph. It does not specify any interaction with spells already in effect, so any spells in effect before using Polymorph would continue.\n",
+        "similarity_score": 0.6180111765861511,
+        "factual_correctness": 2
+    },
+    "id24": {
+        "question": "Can a rogue make sneak attack with a ranged spell like eldritch blast?",
+        "ground_truth_answer": "No, Sneak attack requires that you use a weapon.",
+        "llm_answer": "This question requires knowledge of the Sneak Attack feature, which isn't provided in the context. Therefore, I cannot definitively answer whether a rogue can make a sneak attack with a ranged spell like eldritch blast. However, I can offer some general guidance:\n\n*   **Sneak Attack Requirements:** Sneak Attack typically requires a finesse or ranged weapon and certain conditions to be met (e.g., an ally being within 5 feet of the target, or the rogue having advantage on the attack roll).\n*   **Eldritch Blast:** Eldritch Blast is a ranged spell attack, not a weapon attack.\n\nGiven this, the answer depends on whether the Sneak Attack feature specifically requires a *weapon* attack, or simply a *ranged* attack. If it requires a weapon attack, Eldritch Blast would *not* qualify.\n\n",
+        "similarity_score": 0.5759482383728027,
+        "factual_correctness": 1
+    },
+    "id25": {
+        "question": "Is it possible to learn traits, effects, moves & general features from other classes without multiclassing?",
+        "ground_truth_answer": "Official no, there is no way to get features from a different class without multiclassing.",
+        "llm_answer": "Based on the provided text snippets, there's no direct indication that you can gain features from other classes without multiclassing. The features are explicitly tied to specific classes and levels within those classes.\n",
+        "similarity_score": 0.8235698938369751,
+        "factual_correctness": 2
+    },
+    "id26": {
+        "question": "Does animal friendship work on a swarm of animals?",
+        "ground_truth_answer": "Animal friendship has a single beast as target. A swarm is not a single beast, so no.",
+        "llm_answer": "This question cannot be answered from the given context.\n",
+        "similarity_score": 0.027473464608192444,
+        "factual_correctness": -1
+    },
+    "id27": {
+        "question": "Can an undead creature, such as a vampire, take psychic damage from a mystic?",
+        "ground_truth_answer": "If the creature does not have resistance/immunity to psychic damage in the stat block, it can.",
+        "llm_answer": "While the provided documents don't explicitly state whether all undead are susceptible to psychic damage, it's generally understood in D&D that undead creatures can be affected by psychic damage unless they have a specific immunity or resistance to it.  Since vampires don't have any such immunities or resistances listed, they can likely be damaged by psychic attacks.\n",
+        "similarity_score": 0.46810227632522583,
+        "factual_correctness": 2
+    },
+    "id28": {
+        "question": "Is there a way to know how many charges a magic item like staff of healing has?",
+        "ground_truth_answer": "When you attune to an item you know how many charges it has. The Identify spell allows you to figure out charges.",
+        "llm_answer": "Yes, the Staff of Healing description states, \"This staff has 10 charges.\"\n",
+        "similarity_score": 0.3174930214881897,
+        "factual_correctness": 1
+    },
+    "id29": {
+        "question": "Does a golem's magic resistance counteract the part of the shatter spell which says that a creature made of inorganic material has disadvantage on their saving throw?",
+        "ground_truth_answer": "A creature made of inorganic materials (such as the Stone Golem) is susceptible to Shatter's disadvantage on the saving throw. Having Magic Resistance gives that creature advantage versus spells, such as the aforementioned Shatter. The rule on Advantage and Disadvantage states that having both on a roll negates them and you roll a single d20.",
+        "llm_answer": "The *Shatter* spell states that creatures made of inorganic material have disadvantage on the saving throw. Magic resistance would give the golem advantage on saving throws against spells. Advantage and disadvantage cancel each other out, so the golem would roll the saving throw normally.\n",
+        "similarity_score": 0.8115816116333008,
+        "factual_correctness": 2
+    },
+    "id30": {
+        "question": "Does spell component cost still apply if the spell is done as a ritual?",
+        "ground_truth_answer": "Yes, the only benefit of casting a spell as ritual is the saving of spell slots. Material component has to be provided.",
+        "llm_answer": "Generally, yes. The cost of spell components still applies even if the spell is cast as a ritual. The ritual tag mainly affects the casting time, not the material components needed.\n",
+        "similarity_score": 0.7710603475570679,
+        "factual_correctness": 2
+    }
+}
